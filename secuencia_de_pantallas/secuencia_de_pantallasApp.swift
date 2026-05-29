@@ -4,7 +4,7 @@
 //  Alejandra Mayreni Vázquez Velázquez
 //  José Daniel Espinoza Gómez
 //  fecha 23/03/26import SwiftUI
-
+import SwiftUI
 @main
 struct secuencia_de_pantallasApp: App {
     var body: some Scene {

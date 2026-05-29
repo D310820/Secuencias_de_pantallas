@@ -4,6 +4,7 @@
 //  Alejandra Mayreni Vázquez Velázquez
 //  José Daniel Espinoza Gómez
 //  fecha 23/03/26import SwiftUI
+import SwiftUI
 
 struct SecondScreenView: View {
     var body: some View {
